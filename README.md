@@ -112,4 +112,11 @@ Execute the program
 </html>
 ```
 
-# OUPUT
+# OUPUT:
+## webpage:
+
+<img width="960" alt="out" src="https://user-images.githubusercontent.com/119394027/213478437-b26eb0f3-7fe3-47c2-a403-3612dfb46515.png">
+
+## html validator:
+
+<img width="960" alt="valid" src="https://user-images.githubusercontent.com/119394027/213478579-f76bbb63-748d-404d-9a0e-05a0b476a6e2.png">
